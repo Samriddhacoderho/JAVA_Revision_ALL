@@ -4,7 +4,7 @@ public class Seventh {
 
         Scanner sc=new Scanner(System.in);
 
-        String word="";
+        String word="nepal";
         int word_length=word.length();
         int attempts=6;
         int word_match=0;
